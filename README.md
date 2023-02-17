@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkareshwar Halli</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
-<img align="right" alt="coding" width="370" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dvny2uykpcjqh71xidzfof0dxmqtwpo825xqvoo2&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="370" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkareshwar14&label=Profile%20views&color=0e75b6&style=flat" alt="omkareshwar14" /> </p>
